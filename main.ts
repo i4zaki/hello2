@@ -1,6 +1,6 @@
 basic.forever(function () {
-    basic.showIcon(IconNames.Happy)
+    basic.showString("Yakitori")
     basic.pause(100)
-    basic.showIcon(IconNames.Surprised)
+    basic.showString("Beer")
     basic.pause(100)
 })
